@@ -1,0 +1,5 @@
+D:\dnt\masterpage\masterpage\bin\masterpage.dll
+D:\dnt\masterpage\masterpage\bin\masterpage.pdb
+D:\dnt\masterpage\masterpage\obj\Debug\ResolveAssemblyReference.cache
+D:\dnt\masterpage\masterpage\obj\Debug\masterpage.dll
+D:\dnt\masterpage\masterpage\obj\Debug\masterpage.pdb
